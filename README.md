@@ -12,3 +12,5 @@ Iniciar projeto
 
 Instalação do postgresSql
 "postgresql://postgres:123456@localhost:5432/mydb"
+
+![image](https://github.com/user-attachments/assets/96f037ad-ae8f-4476-8ba7-a310fc3968b0)
